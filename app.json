@@ -8,7 +8,7 @@
         "tg-stream-video"
     ],
     "website": "https://t.me/feyystatus",
-    "repository": "https://github.com/Imszy17/tg-stream-video",
+    "repository": "https://github.com/rakaanjay/g",
     "success_url": "https://t.me/feyystatus",
     "env": {
         "API_ID": {
